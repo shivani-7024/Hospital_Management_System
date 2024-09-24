@@ -3,8 +3,8 @@ import java.util.Scanner;
 
 public class Main {
     private static final String url = "jdbc:mysql://localhost:3306/Hospital";
-    private static final String user = "root";
-    private static final String password = "Shivani!13";
+    private static final String user = "your username";
+    private static final String password = "your password";
 
     static Connection conn = null;
 
