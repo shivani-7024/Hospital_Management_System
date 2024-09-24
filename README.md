@@ -25,7 +25,7 @@ This is a simple Hospital Management System built using Java with a MySQL databa
 1. Clone this repository to your local machine:
 
    ```sh
-   git clone https://github.com/shivani-7024/Hospital_Management.git
+   git clone https://github.com/shivani-7024/Hospital_Management_System.git
    ```
 
 2. Configure your MySQL database settings in the `Main.java` file:
